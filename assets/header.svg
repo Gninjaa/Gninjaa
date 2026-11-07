@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="235" viewBox="0 0 1000 235" role="img" aria-label="均的技术空间">
+<defs><linearGradient id="bg" x2="1" y2=".4"><stop stop-color="#152c45"/><stop offset="1" stop-color="#294e73"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a5c7e0" stroke-opacity=".08"/></pattern></defs>
+<rect width="1000" height="235" rx="12" fill="url(#bg)"/><rect width="1000" height="235" rx="12" fill="url(#grid)"/>
+<circle cx="853" cy="124" r="118" fill="none" stroke="#9dbbd2" stroke-opacity=".16"/><circle cx="853" cy="124" r="82" fill="none" stroke="#9dbbd2" stroke-opacity=".12"/>
+<path d="M724 80L855 52L931 139L817 183Z" fill="none" stroke="#9dbbd2" stroke-opacity=".3"/>
+<g fill="#a8c7df"><circle cx="724" cy="80" r="5"/><circle cx="855" cy="52" r="5"/><circle cx="931" cy="139" r="5"/><circle cx="817" cy="183" r="5"/></g>
+<text x="52" y="48" fill="#91b4d2" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">JUN / GNINJAA</text>
+<text x="50" y="117" fill="#f0f6fc" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="38" font-weight="600" letter-spacing="2">均的技术空间</text>
+<text x="52" y="157" fill="#a8bfd3" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="15" letter-spacing="1">把理解写清楚，把过程留下来。</text>
+<path d="M52 191H88" stroke="#6d9bc2" stroke-width="2"/>
+<text x="102" y="195" fill="#87abc9" font-family="Arial,sans-serif" font-size="9" letter-spacing="3">LEARN / BUILD / DOCUMENT</text>
+<text x="807" y="137" fill="#bfd4e6" font-family="monospace" font-size="47" opacity=".55">{ }</text>
+</svg>
