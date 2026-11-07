@@ -2,7 +2,7 @@
   <img align="right" src="./assets/study.gif" width="40%" alt="二次元学习场景" />
 </a>
 
-## 我是Gninja
+### 我是Gninja
 
 <br clear="both" />
 
