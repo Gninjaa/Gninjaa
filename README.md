@@ -4,10 +4,6 @@
   <img align="right" src="./assets/study.gif" width="40%" alt="二次元学习场景" />
 </a>
 
-### 博客入口
-
-[**均的技术博客 ↗**](https://jun-tech-notes.neatterrapin.chatgpt.site)
-
 <br clear="both" />
 
 ### 项目展示
