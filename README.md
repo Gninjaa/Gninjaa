@@ -2,9 +2,7 @@
   <img src="./assets/header.svg" width="100%" alt="均的技术空间 · LEARN / BUILD / DOCUMENT" />
 </p>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+
 
 ### 你好，我是均 👋
 
@@ -18,16 +16,13 @@
 
 [**阅读我的技术博客 ↗**](https://jun-tech-notes.neatterrapin.chatgpt.site)
 
-</td>
-<td width="42%" align="center" valign="middle">
+<p align="center">
   <a href="https://tenor.com/view/lofi-browsing-studying-anime-gif-17529094">
-    <img src="https://media1.tenor.com/m/4RYbGa1GttQAAAAC/lofi-browsing.gif" width="320" alt="二次元学习场景：坐在桌前使用电脑，旁边放着咖啡" />
+    <img src="./assets/study.gif" width="498" alt="二次元学习场景：坐在桌前使用电脑，旁边放着咖啡" />
   </a>
   <br />
   <sub>慢慢学，认真做。 · <a href="https://tenor.com/view/lofi-browsing-studying-anime-gif-17529094">GIF 来源：Tenor</a></sub>
-</td>
-</tr>
-</table>
+</p>
 
 ### 🧩 项目与实践
 
