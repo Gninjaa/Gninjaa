@@ -17,8 +17,10 @@
 
 ### 开源协作记录
 
-**[Tenuo / LangGraph · PR #1033 ↗](https://github.com/tenuo-ai/tenuo/pull/1033)** · 已合并
+**[Tenuo](https://github.com/tenuo-ai/tenuo) · 3 个 PR 已合并**
 
-参与补充基于 `Send` 的并行 worker 权限示例及测试。
-
-<sub>AI 辅助协作：由我确认方案与修改，AI 协助实现、测试和提交。</sub>
+| 方向 | 协作内容 | PR |
+| :--- | :--- | :--- |
+| **AutoGen** | 补充研究员与审核员的双角色协作示例及测试，验证各角色的工具权限与越权拒绝。 | [#1076 ↗](https://github.com/tenuo-ai/tenuo/pull/1076) |
+| **OpenAI Agents SDK** | 补充原生交接示例、范围更窄的专家授权及离线测试，验证允许调用与越权拦截。 | [#1075 ↗](https://github.com/tenuo-ai/tenuo/pull/1075) |
+| **LangGraph** | 补充基于 `Send` 的并行 worker 权限示例，以及越权拒绝和并发测试。 | [#1033 ↗](https://github.com/tenuo-ai/tenuo/pull/1033) |
